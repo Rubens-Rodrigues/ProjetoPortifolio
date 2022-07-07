@@ -1,5 +1,6 @@
 body {
     background-image: url(./fundo.png);
+    
 }
 
 *{  margin: 0;
@@ -187,6 +188,12 @@ header .items {
 
     .conteudo{
         height: 595px;
+    }
+
+    body{
+    background-position: -300px;
+         
+        
     }
 }
 
